@@ -41,4 +41,4 @@ Feel free to explore the links provided to learn more about each project. If you
 - Email: [mehrabshafae@gmail.com](mailto:mehrabshafae@gmail.com)
 - Alternative Email: [imthemalware@gmail.com](mailto:imthemalware@gmail.com)
   
-- MRB -
+\- MRB -
