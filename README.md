@@ -127,7 +127,7 @@ Here are some additional design projects I have worked on using React Native.
 - Focus on system-level programming, hardware interaction, and developing very fast and lightweight applications.
 
 #### Project Screenshot:
-<img src="https://biaupload.com/do.php?imgf=org-8cb2384422725.jpg" width="300" style="border-radius: 10px;" />
+<img src="[https://biaupload.com/do.php?imgf=org-8cb2384422725.jpg](https://biaupload.com/do.php?imgf=org-73c303eb57971.jpg" width="300" style="border-radius: 10px;" />
 
 
 ---
