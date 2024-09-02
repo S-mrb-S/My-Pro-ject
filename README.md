@@ -33,6 +33,35 @@ Welcome to my portfolio! Here you will find a collection of my projects demonstr
 2. [Project 2 - AnyConnectRemote](https://github.com/MehraB832/AnyConnectRemote)
 3. Additional projects can be found [here](https://github.com/orgs/Team-Ariyae/repositories).
 
+## Go Programming
+
+### Technologies Used
+- Go (Golang)
+
+### Projects
+1. **Olivia Core**  
+   This is a basic AI project written from scratch in Go, with potential for future enhancements.  
+   [GitHub Repository](https://github.com/MehraB832/olivia-core)
+
+   #### Project Screenshots:
+   <p float="left">
+     <img src="https://biaupload.com/do.php?imgf=org-318d8e4e559c1.png" width="300" style="margin-right: 10px;" />
+     <img src="https://biaupload.com/do.php?imgf=org-0832d16fc8332.png" width="300" />
+   </p>
+
+## JavaScript Development
+
+### Technologies Used
+- JavaScript
+
+### Projects
+1. **Patrol**  
+   A web-based image detector and crawler that identifies and retrieves natural images.  
+   [GitHub Repository](https://github.com/MehraB832/patrol)
+
+   #### Project Screenshot:
+   <img src="https://biaupload.com/do.php?imgf=org-49c5897fc8101.png" width="300" />
+
 ---
 
 Feel free to explore the links provided to learn more about each project. If you have any questions or would like to collaborate, please don't hesitate to reach out!
@@ -40,5 +69,7 @@ Feel free to explore the links provided to learn more about each project. If you
 ### Contact Information
 - Email: [mehrabshafae@gmail.com](mailto:mehrabshafae@gmail.com)
 - Alternative Email: [imthemalware@gmail.com](mailto:imthemalware@gmail.com)
-  
-\- MRB -
+
+---
+
+ \- MRB -
