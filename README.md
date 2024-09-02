@@ -47,6 +47,7 @@ Welcome to my portfolio! Here you will find a collection of my projects demonstr
      <img src="https://biaupload.com/do.php?imgf=org-ed5eb3c6f7ee4.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
      <img src="https://biaupload.com/do.php?imgf=org-d4ec2a493dcb1.jpg" width="200" style="border-radius: 10px; margin-bottom: 10px;" />
    </p>
+5. [Project 5 - expo-music-info-2](https://github.com/MehrabSp/expo-music-info-2)
 
 **React Native Design Projects:**
 Here are some additional design projects I have worked on using React Native.
