@@ -56,9 +56,6 @@ Here are some additional design projects I have worked on using React Native.
 <p float="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://biaupload.com/do.php?imgf=org-9cc980fa6a961.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
   <img src="https://biaupload.com/do.php?imgf=org-3ba4156281db2.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
-</p>
-
-<p float="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://biaupload.com/do.php?imgf=org-3b41c86762d83.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
   <img src="https://biaupload.com/do.php?imgf=org-8ac25bcaa1784.jpg" width="200" style="border-radius: 10px; margin-bottom: 10px;" />
 </p>
@@ -76,6 +73,8 @@ Here are some additional design projects I have worked on using React Native.
      <img src="https://biaupload.com/do.php?imgf=org-78beefe18a6e1.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
      <img src="https://biaupload.com/do.php?imgf=org-b6de9fed79b82.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
      <img src="https://biaupload.com/do.php?imgf=org-1d7e8ef99d113.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
+   </p>
+   <p float="left" style="display: flex; flex-wrap: wrap;">
      <img src="https://biaupload.com/do.php?imgf=org-7e8625811a191.jpg" width="200" style="border-radius: 10px; margin-right: 10px; margin-bottom: 10px;" />
      <img src="https://biaupload.com/do.php?imgf=org-6a37ea35ce6c2.jpg" width="200" style="border-radius: 10px; margin-bottom: 10px;" />
    </p>
