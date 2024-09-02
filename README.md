@@ -1,20 +1,44 @@
-### My-Pro-ject
-My professional projects
+# My Professional Projects
 
-+ I improve the things I know and learn more
+Welcome to my portfolio! Here you will find a collection of my projects demonstrating my skills and expertise in various technologies.
 
-## Web && Backend
+## Web Development & Backend
 
-#### Php, Js ( Ts, Jquery, Veujs .. )
-You can visit the site [here](https://telegra.ph/%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%D9%88%D9%84--%DA%A9%D9%88%DB%8C%DB%8C%DA%A9-%D9%85%D9%88%D8%B2%DB%8C%DA%A9-BootStrap-5--Php--Jquery--Vue-Js--Es6--Mysql-07-30).
-link project [here](https://github.com/MehrabSp/ProJect/tree/main/)
+### Technologies Used
+- PHP
+- JavaScript (TypeScript, jQuery, Vue.js, etc.)
 
+### Projects
+1. **Sample Web Project**  
+   [View Project](https://telegra.ph/%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A7%D9%88%D9%84--%DA%A9%D9%88%DB%8C%DB%8C%DA%A9-%D9%85%D9%88%D8%B2%DB%8C%DA%A9-BootStrap-5--Php--Jquery--Vue-Js--Es6--Mysql-07-30)  
+   [GitHub Repository](https://github.com/MehrabSp/ProJect/tree/main/)
 
-## Android
+## Android Development
 
-#### React Native && Java
-[link 1](https://github.com/MehrabSp/react-native-exc), [link 2](https://github.com/MehrabSp/react-native-mml), [link 3](https://github.com/MehrabSp/canva-social), [link 4](https://github.com/MehrabSp/DigiMoviez), [link 5](https://github.com/MehrabSp/expo-music-info-2)
+### Technologies Used
+- React Native
+- Java
+- Kotlin
 
-#### Java && Kotlin
-[link 1](https://github.com/MehraB832/Cisco-Anyconnect), [link 2](https://github.com/MehraB832/AnyConnectRemote).
-[link 3 here](https://github.com/orgs/Team-Ariyae/repositories)
+### Projects
+**React Native & Java:**
+1. [Project 1 - react-native-exc](https://github.com/MehrabSp/react-native-exc)
+2. [Project 2 - react-native-mml](https://github.com/MehrabSp/react-native-mml)
+3. [Project 3 - canva-social](https://github.com/MehrabSp/canva-social)
+4. [Project 4 - DigiMoviez](https://github.com/MehrabSp/DigiMoviez)
+5. [Project 5 - expo-music-info-2](https://github.com/MehrabSp/expo-music-info-2)
+
+**Java & Kotlin:**
+1. [Project 1 - Cisco Anyconnect](https://github.com/MehraB832/Cisco-Anyconnect)
+2. [Project 2 - AnyConnectRemote](https://github.com/MehraB832/AnyConnectRemote)
+3. Additional projects can be found [here](https://github.com/orgs/Team-Ariyae/repositories).
+
+---
+
+Feel free to explore the links provided to learn more about each project. If you have any questions or would like to collaborate, please don't hesitate to reach out!
+
+### Contact Information
+- Email: [mehrabshafae@gmail.com](mailto:mehrabshafae@gmail.com)
+- Alternative Email: [imthemalware@gmail.com](mailto:imthemalware@gmail.com)
+  
+- MRB -
